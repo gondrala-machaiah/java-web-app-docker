@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: gondrala/java-web-app:32
+      - image: gondrala/java-web-application:33
         name: javawebapp
         ports:
         - name: javawebapp
